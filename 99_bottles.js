@@ -11,4 +11,4 @@ function bottleSong(num) {
   return '1 bottle of beer on the wall, 1 bottle of beer. Take one down and pass it around, no more bottles of beer on the wall. No more bottles of beer on the wall, no more bottles of beer. Go to the store and buy some more, ' + num + ' bottles of beer on the wall.';
  };
  
- console.log(bottleSong(10));
+ console.log(bottleSong(99));
